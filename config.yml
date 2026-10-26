@@ -7,7 +7,7 @@ app:
 
 base_de_donnees:
   hote: localhost
-  nom: cafet
+  nom: cafet_dev
 
 serveur:
   max_utilisateurs: 50
