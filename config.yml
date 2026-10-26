@@ -11,4 +11,4 @@ base_de_donnees:
 
 serveur:
   max_utilisateurs: 50
-  niveau_logs: info
+  niveau_logs: warning
