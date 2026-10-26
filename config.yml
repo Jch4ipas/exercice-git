@@ -2,7 +2,7 @@
 
 app:
   nom: cafet-app
-  port: 8080
+  port: 3000
   langue: fr
 
 base_de_donnees:
